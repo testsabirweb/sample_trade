@@ -40,6 +40,9 @@ Run the main script to start your algorithmic trading strategy:
 python main.py
 ```
 
+## Connect
+For details and freelancing, connect with me on [LinkedIn](https://in.linkedin.com/in/sabir9644).
+
 ## Disclaimer
 
 This repository is for educational purposes only. It reflects my personal experience with algorithmic trading and includes only a part of the complete code. No strategies from my previous clients are exposed here.
