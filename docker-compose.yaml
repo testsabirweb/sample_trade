@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  tarding:  # Replace 'your_service_name' with a suitable name
+    build:
+      context: .
+      dockerfile: dockerfile
+    volumes:
+      - ./logs:/app/logs  # Mount logs directory to persist logs outside the container (optional)
+    restart: unless-stopped  # Restart the container automatically unless stopped manually

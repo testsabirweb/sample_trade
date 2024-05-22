@@ -1,0 +1,6 @@
+pytz
+pandas
+pyotp
+requests
+fyers-apiv3
+colorlog
